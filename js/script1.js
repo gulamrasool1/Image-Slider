@@ -34,4 +34,4 @@ function handleBtns(event) {
         controller(1);
     }
 }
-btnContainer.addEventListener('click', handleBtns);
+btnContainer.addEventListener('click', handleBtns); // handle all arrowBtns
